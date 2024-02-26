@@ -35,7 +35,7 @@ function actualizarListaTareas() {
           <input type="checkbox" id="checkbox-${index}" onchange="marcarComoCompletada(${index})" ${tarea.completed ? 'checked' : ''}>
           <label for="checkbox-${index}" class="ms-2 ${tarea.completed ? 'tachado' : ''}">${tarea.name} - ${tarea.dueDate}</label>
         </div>
-        <button class="btn btn-danger btn-sm" onclick="eliminarTarea(${index})">Eliminar</button>
+        <button class="btn btn-danger btn-sm" onclick="eliminarTarea(${index})">Delete</button>
       `;
 
       listaTareas.appendChild(elementoLista);

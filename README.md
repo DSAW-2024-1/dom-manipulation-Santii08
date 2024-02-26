@@ -14,6 +14,24 @@ Esta tarea consiste en crear una aplicación de lista de tareas utilizando HTML,
 
 El diseño de la aplicación debe ser responsive y adaptarse correctamente a diferentes tamaños de pantalla. Se espera que la interfaz sea fácil de usar tanto en dispositivos móviles como en desktops.
 
+## Final
+
+LINK: https://dsaw-2024-1.github.io/dom-manipulation-Santii08/
+![SabanaControlTask](https://dsaw-2024-1.github.io/dom-manipulation-Santii08/)
+
+
+SabanaControlTask, es una app web que nos permite controlar y organizar nuestros tiempos de una mejor forma, esta disponible en todas las plataformas y para cualquier persona.
+
+Tiene diferentees apliaciones como el uso del menu hamburguesa para dispostivos entre 320px x 1024px, ademas de tener diferentes funcionalidades adicionales a las requeridas, como lo son:
+-Filtro por dia
+-Fecha y asignación de la tarea
+-Mensaje de entusiasmo xd
+-Y una bonita interfaz con un carrusel para que el usurio no se sienta  mal porque conocemos sus preocupaciones del semestre, la app tiene un diseño amigable.
+
+![DesktopView](Image/Captura%20de%20pantalla%202024-02-25%20223706.png)
+![MobileView](Image/Captura%20de%20pantalla%202024-02-25%20223905.png)
+![TabletView](Image/Captura%20de%20pantalla%202024-02-25%20223739.png)
+
 
 | Viewport                | Dimensiones (ancho x alto) |
 | ----------------------- | -------------------------- |
@@ -29,5 +47,7 @@ El diseño de la aplicación debe ser responsive y adaptarse correctamente a dif
 | Diseño Responsive | 0.5     |
 | HTML Semántico     | 0.5     |
 | Funcionalidad      | 3       |
+
+
 
 
